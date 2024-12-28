@@ -10,6 +10,7 @@ export const metadata: Metadata = {
     description: "BEST Hackath0n`2025 partnership broshure",
 };
 
+// test
 export default function RootLayout({
   children,
 }: Readonly<{
